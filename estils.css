@@ -1,0 +1,170 @@
+
+body{
+    margin: 0;
+}
+
+
+#logo {
+    width: 4%;
+    margin-top:2%;
+    margin-left:10%;
+    min-width: ;
+
+}
+
+#titol{
+    text-align: center;
+    margin-top: 2%;
+    font-size: 250%;
+    color: black;
+    font-family: "Montserrat";
+    
+}
+
+#subtitol{
+    text-align: center;
+    font-family: "Dosis";
+    font-size: large;
+    font-size: 130%;
+}
+
+#avatar {
+    width: 15%;
+    
+}
+
+#avatardiv {
+   text-align:center;
+
+}
+
+#escriptori{
+width: 40%;
+}
+
+#escriptoridiv{
+    margin-top: 3%;
+    text-align: center;
+
+}
+
+#informacio {
+    background-color: #00bfff;
+    text-align: center;
+    color:white;
+    padding-top: 8%;
+    padding-bottom: 15%;
+    font-family: "Montserrat";
+    font-size: 140%;
+    
+
+}
+.taula{
+    
+    background-color: white;
+    margin: -7% auto;
+    margin-bottom: 3%;
+    width: 50%;
+    border-radius: 25px;
+    border: 2px solid #E6ECF8;
+    overflow: hidden;
+    font-family: "Montserrat";
+    display: flex;
+    flex-direction: row;
+
+    
+}
+
+.elements{
+    flex:1;
+    border:solid #E6ECF8;
+    text-align: center;
+    float: left;
+    padding-top: 6%;
+    padding-bottom: 6%;
+}
+
+
+
+.fotoinfo{
+    width: 30%;
+    
+
+}
+
+.infolletra{
+text-align: center;
+font-size: 100%;
+
+
+}
+
+.infotitols {
+    font-size: 110%;
+    font-weight: bold;
+    
+
+
+}
+
+#peu {
+    background-color:#00bfff; 
+    margin-top: 10%;
+    text-align: center;    
+    
+}
+#logoblanc{
+    margin-top: 3%;
+    width: 6%;
+    margin-bottom: 3%;
+    
+    
+}
+
+.logos{
+width: 4%;
+padding-bottom: 3%;
+padding-top: 3%;
+
+
+}
+
+#contacte{
+margin-top: 3%;
+font-family: "Montserrat";
+font-size: 180%;
+color:white;
+font-weight: 600;
+
+}
+
+#autor{
+    font-family: "Montserrat";
+    font-size: 130%;
+    color:white;
+    font-weight: 600;
+    
+    
+
+}
+
+#frase{
+    font-family: "Montserrat";
+    font-size: 130%;
+    color:white;
+}
+
+#fetaper{
+    font-family: "Montserrat";
+    font-size: 100%;
+    color:white;
+    font-weight: 700;
+    padding-bottom: 3%;
+}
+
+#cc{
+width: 1%;
+
+}
+
+
